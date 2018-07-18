@@ -35,7 +35,7 @@ USE gp0541031;
  FirstName VARCHAR(20) NOT NULL,
  LastName VARCHAR(20) NOT NULL,
  HeldDegree VARCHAR(40) NOT NULL,
- ShcoolAttended VARCHAR(50) NOT NULL,
+ SchoolAttended VARCHAR(50) NOT NULL,
  Title VARCHAR(21) NOT NULL);
  
  CREATE TABLE Department(
