@@ -16,15 +16,17 @@ VALUES('Tiffany','Ford','Docturate','Drury','Instructor'),
 
 
 INSERT INTO Administration
-VALUES('Matt','Hudson','Tech','Dean');
+VALUES('Matt','Hudson','Technical Education Division','Dean');
 
 INSERT INTO Course
 VALUES(1,3,1,3,'Mon','8:00am - 10:30am','SP/18','NKM204','101','Web Development','HTML','CIS'),
 (2,3,1,3,'Mon','8:00am - 10:30am','SP/18','NKM204','101','Web Development','HTML','CIS'),
 (3,5,1,4,'Tue','11:00am - 1:00pm','SU/19','NKM104','101','CSharp','Programming','CIS'),
 (4,4,1,3,'Wen','11:00am - 1:00pm','FA/19','NKM304','101','Computer Information Systems ','Programming','CIS'),
-(5,5,1,3,'Tue','11:00am - 1:00pm','SU/19','NKM104','101','Digital Literacy','Programming','CIS'),
-(2,5,1,3,'Tue','11:00am - 1:00pm','SU/18','NKM104','101','CSharp','Programming','CIS');
+(5,5,1,3,'Tue','11:00am - 1:00pm','SU/19','NKM104','250','Digital Literacy','Programming','CIS'),
+(2,5,1,3,'Tue','11:00am - 1:00pm','SU/18','NKM104','101','CSharp','Programming','CIS'),
+(4,5,1,3,'Tue','11:00am - 1:00pm','SU/19','NKM104','250','Digital Literacy','Programming','CIS'),
+(1,5,1,3,'Tue','11:00am - 1:00pm','SU/19','NKM104','250','Digital Literacy','Programming','CIS');
 
 --While it says test this is our primary insert script.
 
