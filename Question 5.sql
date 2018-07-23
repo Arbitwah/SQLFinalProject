@@ -1,3 +1,3 @@
 SELECT RoomNumber
 FROM Course
-WHERE ProgramCode = 'CIS' AND SectionNumber = '250' AND Semester = 'SU/19'
+WHERE ProgramCode = 'CIS' AND CourseNumber = '250' AND SectionNumber = '101' AND Semester = 'SU/19'
